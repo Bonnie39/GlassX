@@ -1,4 +1,5 @@
 # GlassXI
+# DEVELOPMENT OF THIS FORK OF BORDERSKIN HAS NOT BEGUN YET! STAY TUNED FOR UPDATES!
 
 GlassXI is a free portable software that aims to bring back elements of the Aero design from Windows Vista & 7 such as reflective materials and background blurs.
 
